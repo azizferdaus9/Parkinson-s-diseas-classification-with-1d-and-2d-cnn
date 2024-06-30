@@ -1,0 +1,1 @@
+# Parkinson-s-diseas-classification-with-1d-and-2d-cnn
